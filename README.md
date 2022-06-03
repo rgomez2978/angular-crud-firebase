@@ -3,11 +3,11 @@
 ![styles](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![styles](https://img.shields.io/badge/Firebase-gray?style=for-the-badge&logo=json&logoColor=white)
 
-# Aplicación Angular - Login tradicional con firebase 
+# Aplicación Angular - CRUD sencillo con firebase 
 
-Proyecto de CRUD de heroes con ApiREST de firebase, Elaborado en [Angular CLI](https://github.com/angular/angular-cli) version 7.2.0, Typescript, Bootstrap 4, Firebase.
+Proyecto de CRUD de heroes con Api REST de firebase, Elaborado en [Angular CLI](https://github.com/angular/angular-cli) version 7.2.0, Typescript, Bootstrap 4, Firebase.
 
-[DEMO](https://rgomez2978.github.io/angular-crud-firebase)
+[DEMO](https://rgomez2978.github.io/angular-crud-firebase/)
 
 ## Instalación de Librerias
 
